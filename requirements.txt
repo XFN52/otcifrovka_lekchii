@@ -1,0 +1,4 @@
+requests
+PyMuPDF
+Pillow
+python-dotenv
